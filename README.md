@@ -1,4 +1,4 @@
-# forked-react-native-appmetrica
+# react-native-appmetrica
 React Native bridge to the [AppMetrica](https://appmetrica.yandex.com/) on both iOS and Android.
 
 ## Installation
